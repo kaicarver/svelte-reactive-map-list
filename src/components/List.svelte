@@ -37,7 +37,7 @@
 <script>
   import { onMount, onDestroy } from 'svelte';
   import inView from 'in-view';
-  import { listItems, sprudgeArticle } from './consts.js';
+  import { listItems, sprudgeArticle, dornArticle } from './consts.js';
   import { activeListItem, activeMapItem } from './stores.js';
 
   // Define the ref
@@ -82,6 +82,9 @@
       <a href="https://sprudge.com/">Sprudge</a>
       to use in this demo. Read the original article by Eric Tessier
       <a href="{sprudgeArticle}">here</a>.
+      <br>
+      Note 2: I took this from Bruce Dorn's tutorial
+      <a href="{dornArticle}">here</a>.
     </i>
     <h1>Where To Drink Coffee In Kyoto, Japan</h1>
   </div>
