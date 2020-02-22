@@ -83,7 +83,7 @@
       I took this Svelte reactive map demo from Bruce Dorn's tutorial
       <a href="{dornArticle}">here</a>.
       <br>
-      He took the Kyoto coffe shop list from
+      He took the Kyoto coffee shop list from
       <a href="https://sprudge.com/">Sprudge</a>.
       Read the original article by Eric Tessier
       <a href="{sprudgeArticle}">here</a>.

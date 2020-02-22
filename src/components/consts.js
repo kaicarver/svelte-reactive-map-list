@@ -27,7 +27,7 @@ export const listItems = [
     image:
       'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bievre_a_Fresnes_2.JPG/1200px-Bievre_a_Fresnes_2.JPG',
     description:
-      '<p>Or perhaps a more rural locale?</p>',
+      '<p>Or perhaps a more rural locale?</p><p>There’s a nice church there, too.</p>',
     coordinates: [2.3221, 48.755]
   },
   {
