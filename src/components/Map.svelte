@@ -43,7 +43,8 @@
     // Create the map
     mapRef = new mapboxgl.Map({
       container: 'map',
-      style: 'mapbox://styles/mapbox/light-v10?optimize=true',
+      //style: 'mapbox://styles/mapbox/light-v10?optimize=true',
+      style: 'mapbox://styles/mapbox/satellite-v9?optimize=true',
       center: listItems[0].coordinates,
       zoom: 13
     });
