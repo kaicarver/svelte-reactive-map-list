@@ -86,7 +86,7 @@
       Note 2: I took this from Bruce Dorn's tutorial
       <a href="{dornArticle}">here</a>.
     </i>
-    <h1>Where To Drink Coffee In Kyoto, Japan</h1>
+    <h1>Where To Drink Coffee</h1>
   </div>
   {#each listItems as listItem, index}
     <div class="list-item" id="list-item-{index}">

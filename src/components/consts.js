@@ -12,12 +12,23 @@ export const listItems = [
     name: 'Chez Kai',
     address:
       '21 rue du Tunnel, 75010 Paris',
-    website: 'https://www.kurasu.kyoto/',
+    website: 'https://fr.wikipedia.org/wiki/Studios_des_Buttes-Chaumont',
     image:
       'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parc_des_Buttes_Chaumont_Sep_2012.jpg/1200px-Parc_des_Buttes_Chaumont_Sep_2012.jpg',
     description:
       '<p>Forget Japan, perhaps you should consider having a coffee Chez Kai.</p>',
     coordinates: [2.3846878,48.8790788]
+  },
+  {
+    name: 'Chez Stef',
+    address:
+      'Fresnes',
+    website: 'https://en.wikipedia.org/wiki/Fresnes,_Val-de-Marne',
+    image:
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bievre_a_Fresnes_2.JPG/1200px-Bievre_a_Fresnes_2.JPG',
+    description:
+      '<p>Or perhaps a more rural locale?</p>',
+    coordinates: [2.3221, 48.755]
   },
   {
     name: 'Weekenders Coffee Tominokoji',
