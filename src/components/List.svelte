@@ -78,13 +78,15 @@
 <div id="list-items" bind:this="{listRef}">
   <div class="head">
     <i>
-      Note: I took this list from
-      <a href="https://sprudge.com/">Sprudge</a>
-      to use in this demo. Read the original article by Eric Tessier
-      <a href="{sprudgeArticle}">here</a>.
-      <br>
-      Note 2: I took this from Bruce Dorn's tutorial
+      Notes: 
+      <a href="https://github.com/kaicarver/svelte-reactive-map-list">Source on Github</a>.
+      I took this Svelte reactive map demo from Bruce Dorn's tutorial
       <a href="{dornArticle}">here</a>.
+      <br>
+      He took the Kyoto coffe shop list from
+      <a href="https://sprudge.com/">Sprudge</a>.
+      Read the original article by Eric Tessier
+      <a href="{sprudgeArticle}">here</a>.
     </i>
     <h1>Where To Drink Coffee</h1>
   </div>
